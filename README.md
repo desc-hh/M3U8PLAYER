@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+m3u8 player
 yarn install
 ```
 
